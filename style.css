@@ -32,5 +32,5 @@ h3{
 #contact {
     font-family: monospace;
 }
-p:hover{ font-family: fantasy;
+p:hover{ font-family: monospace;
 }
