@@ -40,3 +40,7 @@ h3{
 p:hover{ font-family: monospace;
         color:red;
 }
+    button{
+    margin: 10px;
+    border-radius: 4px;
+}
