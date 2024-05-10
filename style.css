@@ -13,7 +13,7 @@ h1{
 body{
     
     font-size: 20px;
-    background-image: url('https://images.pexels.com/photos/1148399/pexels-photo-1148399.jpeg?cs=srgb&dl=background-book-stack-books-1148399.jpg&fm=jpg');
+    background-image:url(https://wallpapercave.com/wp/wp8391728.jpg) ;
             background-size: cover; /* This ensures the image covers the entire background */
             background-repeat: no-repeat; /* This prevents the background image from repeating */
             background-attachment: fixed; 
